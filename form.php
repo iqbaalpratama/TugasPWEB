@@ -56,7 +56,7 @@
         </div>
         <div class="form-group">
             <label for="image">Foto</label>
-            <input type="file" class="form-control" placeholder="Masukkan foto" name="image" id="image">
+            <input type="file" class="form-control" placeholder="Masukkan foto" name="image" id="image" accept="image/png">
         </div>
         <button type="submit" class="btn btn-primary text-center">Upload</button>
     </form>
